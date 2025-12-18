@@ -28,11 +28,9 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ## About me 🧠
-I aspire to work as a Back-End Developer, with a focus on Java. 💻
+I am a tech enthusiast currently working as a Functional Design Analyst at Movistar, where I bridge the gap between business needs and technical solutions. My experience involves analyzing internal systems, designing functional diagrams, and ensuring seamless platform integrations. This analytical background gives me a unique perspective on building robust, scalable software.
 
-In addition to my expertise in Java, I have knowledge of various technologies. 🔧
-
-I am passionate about solving problems and committed to staying up to date with the latest advancements in technology. 🚀
+I am passionate about solving complex problems, optimizing processes, and staying at the forefront of technological advancements. I believe that my experience in functional design, combined with my technical skills, allows me to build applications that are not only well-coded but also strategically aligned with user requirements.
 
 I am a Computers Technician graduate 🎓 and currently studying a [Systems Engineering](https://uai.edu.ar/facultades/tecnolog%C3%ADa-inform%C3%A1tica/ingenier%C3%ADa-en-sistemas-inform%C3%A1ticos/) degree at UAI, Argentina. 📚
 
