@@ -51,9 +51,18 @@ Mi objetivo es correrme del perfil de analista funcional puro hacia uno de **Arq
 **Gestión & colaboración**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
+
 ### 📊 Stats
-<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=serranolautaro&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=serranolautaro&layout=compact&theme=dark&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=serranolautaro&theme=dark&hide_border=true" height="165"/> </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=serranolautaro&theme=dark&hide_border=true" height="165"/>
+
+</div>
+
 ---
+
 </div>
