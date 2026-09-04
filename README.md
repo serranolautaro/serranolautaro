@@ -56,6 +56,4 @@ Mi objetivo es correrme del perfil de analista funcional puro hacia uno de **Arq
 
 <div align="center">
 
-📫 Contacto: [LinkedIn](https://www.linkedin.com/in/serranolautaro/)
-
 </div>
